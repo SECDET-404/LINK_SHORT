@@ -6,4 +6,6 @@
 
 • `cd LINK_SHORT`
 
+• `pip install-r requirements.txt`
+
 • `python Link_S.py`
